@@ -4,6 +4,9 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
+/**
+ * <a href="https://leetcode.cn/problems/pacific-atlantic-water-flow/description/">417. 太平洋大西洋水流问题</a>
+ */
 @SuppressWarnings("DuplicatedCode")
 class Solution417 {
     static int[][] dirs = {{-1, 0}, {1, 0}, {0, -1}, {0, 1}};
