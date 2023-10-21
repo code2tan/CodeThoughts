@@ -7,12 +7,12 @@ class Solution209 {
     public int minSubArrayLen(int target, int[] nums) {
         int sumVal = 0;
         int len = Integer.MAX_VALUE;
-        int i = 0;
-        for (int j = 0; j < nums.length; j++) {
-            sumVal += nums[j];
+        int left = 0;
+        for (int right = 0; right < nums.length; right++) {
+            sumVal += nums[right];
             while (sumVal >= target) {
-                sumVal -= nums[i++];
-                len = Math.min(len, j - i + 1);
+                sumVal -= nums[left++];
+                len = Math.min(len, right - left + 1);
             }
         }
         return len == Integer.MAX_VALUE ? 0 : len;
