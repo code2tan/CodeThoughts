@@ -2,6 +2,9 @@ package org.algorithm.graph;
 
 import java.util.Arrays;
 
+/**
+ * <a href="https://leetcode.cn/problems/squares-of-a-sorted-array/submissions/476163042/">977. 有序数组的平方</a>
+ */
 class Solution977 {
     public int[] sortedSquares(int[] nums) {
         int[] result = new int[nums.length];
