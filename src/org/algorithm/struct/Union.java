@@ -1,4 +1,4 @@
-package org.algorithm.graph.struct;
+package org.algorithm.struct;
 
 public class Union {
     int n = 1005; // n根据题目中节点数量而定，一般比节点数量大一点就好

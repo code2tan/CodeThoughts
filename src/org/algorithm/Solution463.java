@@ -1,4 +1,4 @@
-package org.algorithm.graph;
+package org.algorithm;
 
 class Solution463 {
     int[][] directions = {{1, 0}, {-1, 0}, {0, 1}, {0, -1}};

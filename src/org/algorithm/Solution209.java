@@ -1,4 +1,4 @@
-package org.algorithm.graph;
+package org.algorithm;
 
 /**
  * <a href="https://leetcode.cn/problems/minimum-size-subarray-sum/description/">209. 长度最小的子数组</a>

@@ -1,4 +1,4 @@
-package org.algorithm.graph;
+package org.algorithm;
 
 class Solution27 {
     public int removeElement(int[] nums, int val) {

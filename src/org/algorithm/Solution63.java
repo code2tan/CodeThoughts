@@ -1,4 +1,4 @@
-package org.algorithm.graph;
+package org.algorithm;
 
 /**
  * <a href="https://leetcode.cn/problems/unique-paths-ii/">63. 不同路径 II</a>

@@ -1,4 +1,4 @@
-package org.algorithm.graph.struct;
+package org.algorithm.struct;
 
 import java.util.Arrays;
 

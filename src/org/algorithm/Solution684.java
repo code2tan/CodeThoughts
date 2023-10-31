@@ -1,4 +1,4 @@
-package org.algorithm.graph;
+package org.algorithm;
 
 class Solution684 {
     int[] father;

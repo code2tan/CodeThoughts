@@ -1,4 +1,4 @@
-package org.algorithm.graph;
+package org.algorithm;
 
 public class BagProblem1 {
     public static void testWeightBagProblem(int[] weight, int[] value, int bagWeight) {

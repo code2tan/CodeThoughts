@@ -1,4 +1,4 @@
-package org.algorithm.graph;
+package org.algorithm;
 
 import java.util.ArrayDeque;
 import java.util.Queue;

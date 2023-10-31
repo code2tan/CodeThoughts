@@ -1,4 +1,4 @@
-package org.algorithm.graph;
+package org.algorithm;
 
 class Solution13 {
     public int romanToInt(String s) {

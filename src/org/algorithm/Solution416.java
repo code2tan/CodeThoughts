@@ -1,4 +1,4 @@
-package org.algorithm.graph;
+package org.algorithm;
 
 class Solution416 {
     public boolean canPartition(int[] nums) {
